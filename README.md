@@ -6,6 +6,13 @@ https://github.com/digistump/DigistumpArduino/tree/master/digistump-avr/librarie
 
 Code is verbatim, just files are re-arranged and properties file is add, in order to make use in Arduino Droid.  
 
+ Digistump AVR board manager package:
+ this link does not work as of 05-05-2024:
+  http://digistump.com/package_digistump_index.json
+ 
+ this link still works
+  https://github.com/ErikLPA/Arduinodroid_DigiKeyboard/blob/main/package_digistump_index.json
+
 # USAGE:
  The code format is same as official DigiKeyboard.h, if not sure checkout the examples and original Documentation:  
 
