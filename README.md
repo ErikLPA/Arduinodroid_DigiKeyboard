@@ -8,6 +8,7 @@ Code is verbatim, just files are re-arranged and properties file is add, in orde
 
  Digistump AVR board manager package:
  this link does not work as of 05-05-2024:
+ 
  http://digistump.com/package_digistump_index.json
  
  this link still works
